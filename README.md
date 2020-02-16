@@ -51,3 +51,7 @@ According to our analysis, the majority of tweets about commercials are in the 4
 
 ## Call to Action 
 All in all, as the results we present above. The commercials are more effective when combining commercials and giving away rewards (how), consisting of short funny material with celebrities (what), and broadcasting in the 4th quarter. 
+
+## Future Analysis
+Hypothesis testing on length of ads to check if certain length of ads constitute a higher significant difference. 
+Check if any other features are positive correlated with positive engagement per second
