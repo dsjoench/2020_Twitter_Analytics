@@ -53,6 +53,14 @@ According to our analysis, the majority of tweets about commercials are in the 4
 ## Call to Action 
 All in all, as the results we present above. The commercials are more effective when combining commercials and giving away rewards (how), consisting of short funny material with celebrities (what), and broadcasting in the 4th quarter. 
 
-## Future Analysis
-Hypothesis testing on length of ads to check if certain length of ads constitute a higher significant difference. 
-Check if any other features are positive correlated with positive engagement per second
+## Post-competition analysis
+
+Magtitude = engagement per second * positive proportion/ negative proportion
+
+It turns out that this is a better reflection and indicator of how much positivity from Twitter a second of ads can bring out. 
+
+## Statistical Analysis
+Hypothesis testing on length of ads to check if certain length of ads constitute a  significant difference on the metric
+Used ANOVA to confirm that there is a significant difference at the duration group at 10% signficant level. Then I used post-hoc analysis to find out that 15 seconds is the only and most significant different among all. 
+
+
