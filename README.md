@@ -1,6 +1,7 @@
 # Super Bowl Commercials: How, What, and When—A 2020 Twitter Insight.
 
 Members: Cho Hang, Shihao Li, Kevin Kusuma, Hanyi Zhou
+https://eccles.utah.edu/programs/undergraduate/game-day-ad-analytics-blitz-2020/
 
 ## INTRODUCTION
 The Super Bowl 2020 drew 102 million viewers on Fox, Fox Deportes and Fox, NFL and Verizon’s digital properties. With a cost of $5.6 million per 30 seconds for this year's Super Bowl commercials, Fox Corporation earned around $600 million in total TV ads. Companies spent millions of dollars to build awareness of the products and services, while also trying to generate discussions among the wide audience around the ads themselves so they may receive additional exposure. For example, to become a viral video. So now the question is what business gets for the money spent? In this analytics competition, our team analyzes data collected from Twitter regarding Super Bowl commercials to find some business insights. 
