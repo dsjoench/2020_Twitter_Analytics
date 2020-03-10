@@ -63,4 +63,9 @@ It turns out that this is a better reflection and indicator of how much positivi
 Hypothesis testing on length of ads to check if certain length of ads constitute a  significant difference on the metric
 Used ANOVA to confirm that there is a significant difference at the duration group at 10% signficant level. Then I used post-hoc analysis to find out that 15 seconds is the only and most significant different among all. 
 
+## Future Analysis 
+Collect more data from past commerical played during the SuperBowl and test our hypothesis across multiple years 
+Finding additional signficant factors that lead to a change of the metric over the past years
+
+
 
