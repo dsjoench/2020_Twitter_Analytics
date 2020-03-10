@@ -17,7 +17,7 @@ They made up 20% of Fox’s total TV ad revenue. However, the dollar spent on TV
 The chart below shows the top 5 performers according to our KPI- engagement volume per second of ad. It was created by using KPI then we grouped it by the brand in sum. 
 One second of advertisement costs approximately $186667, and we found that Metro Goldwyn Mayer took the lead and got over 4800 engagements per second. However, we cannot jump into conclusion yet before we dive deep into what actually happened.
 
-![](Engagement per second of ad.png)
+![](Engagement%20per%20second%20of%20ad.png)
 
 Positive Influence on Engagement Volume
 This chart below attempts to capture the brands with the right balance of proportion of positive tweets and engagement volume per second of ad invested. 
