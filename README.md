@@ -36,7 +36,7 @@ Now our goal is to find if there are any factors that can contribute to a succes
 T-mobile — how they made it
 We look into the tweets number about the t-mobile. We found the accounts that tweets about T-mobile are increasing significantly from 2019 to 2020. When we look closely into text details of the 2020 tweets, we found that the majority (76%) of the tweets are about the free phone raffle movement launched by the t-mobile official Twitter account.
 
-![](image/Tmobile.PNG)
+![](image/tmobile.PNG)
  
 With this in mind, we searched for the policy for the raffle. It turned out that the T-mobile gave away 300 smartphones during the super bowl streaming time. When it comes to cost, one reward with a smartphone and additional accessory credit costs $1857. And with 300 in amounts, the raffle campaign cost $ 557,100. The total cost is much lower than a 30 seconds super bowl commercial ($5,000,000). This would offer a new idea for promoting the product, that is, combining investing in TV commercials and giving away free reward can generate sizable social media awareness. 
 
