@@ -13,6 +13,8 @@ Also, we have created a new metrics Engagement to measure how tweets interacted 
 The 5 biggest spenders on this year’s super bowl TV ads are NFL, Walmart, Tide, HardRockHotel, and Hyundai. 
 They made up 20% of Fox’s total TV ad revenue. However, the dollar spent on TV ads did not necessarily translate to social media engagement. 
 
+![](image/wordloud.PNG)
+
 ## Top 5 Brands that generate the most engagement per second of ad
 The chart below shows the top 5 performers according to our KPI- engagement volume per second of ad. It was created by using KPI then we grouped it by the brand in sum. 
 One second of advertisement costs approximately $186667, and we found that Metro Goldwyn Mayer took the lead and got over 4800 engagements per second. However, we cannot jump into conclusion yet before we dive deep into what actually happened.
@@ -33,6 +35,8 @@ On the other hand, this chart displays the brands associating with the proportio
 Now our goal is to find if there are any factors that can contribute to a successful brand like T-Mobile who has a good volume of engagement and a high proportion of positive tweets. Is there any way other brands can do or avoid in order to get there? 
 T-mobile — how they made it
 We look into the tweets number about the t-mobile. We found the accounts that tweets about T-mobile are increasing significantly from 2019 to 2020. When we look closely into text details of the 2020 tweets, we found that the majority (76%) of the tweets are about the free phone raffle movement launched by the t-mobile official Twitter account.
+
+![](image/Tmobile.PNG)
  
 With this in mind, we searched for the policy for the raffle. It turned out that the T-mobile gave away 300 smartphones during the super bowl streaming time. When it comes to cost, one reward with a smartphone and additional accessory credit costs $1857. And with 300 in amounts, the raffle campaign cost $ 557,100. The total cost is much lower than a 30 seconds super bowl commercial ($5,000,000). This would offer a new idea for promoting the product, that is, combining investing in TV commercials and giving away free reward can generate sizable social media awareness. 
 
@@ -42,13 +46,16 @@ Social Cause/ Emotional Vs Funny
 We categorize the commercials to be moral values and funny by theme. Moral value means that the commercial is touching, or sending some positive emotion like patriotism or gender equality. And for others, we categorize as neutral. 
 We can find out that funny commercials generally are more effective than Moral value commercials. 
 
+![](image/mood.PNG)
+
 Celebrity vs No celebrity
 For those commercials related to TV drama or have a celebrity in them, we categorize them as celebrities. Others we categorize as no celebrity. 
+![](image/celebrity.PNG)
 
 We can find out that commercials related to TV drama or have a celebrity are more effective than commercials without celebrity. 
 Long Vs Short
 For those commercials longer than or equal to 45 seconds we categorize them as long commercials, for those commercials that are shorter than 45 seconds, we categorize them as short. 
-
+![](image/duration.PNG)
 We can find out that short commercials tend to have more effect than long commercials. 
 Time — when is the best time for commercials? 
 According to our analysis, the majority of tweets about commercials are in the 4th quarter. 
